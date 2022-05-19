@@ -1,0 +1,10 @@
+c:\users\domingos\documents\visual studio 2015\Projects\GeradorCodeQR\GeradorCodeQR\bin\Debug\GeradorCodeQR.exe.config
+c:\users\domingos\documents\visual studio 2015\Projects\GeradorCodeQR\GeradorCodeQR\bin\Debug\GeradorCodeQR.exe
+c:\users\domingos\documents\visual studio 2015\Projects\GeradorCodeQR\GeradorCodeQR\bin\Debug\GeradorCodeQR.pdb
+c:\users\domingos\documents\visual studio 2015\Projects\GeradorCodeQR\GeradorCodeQR\bin\Debug\QRCoder.dll
+c:\users\domingos\documents\visual studio 2015\Projects\GeradorCodeQR\GeradorCodeQR\obj\Debug\GeradorCodeQR.csprojResolveAssemblyReference.cache
+c:\users\domingos\documents\visual studio 2015\Projects\GeradorCodeQR\GeradorCodeQR\obj\Debug\GeradorCodeQR.Form1.resources
+c:\users\domingos\documents\visual studio 2015\Projects\GeradorCodeQR\GeradorCodeQR\obj\Debug\GeradorCodeQR.Properties.Resources.resources
+c:\users\domingos\documents\visual studio 2015\Projects\GeradorCodeQR\GeradorCodeQR\obj\Debug\GeradorCodeQR.csproj.GenerateResource.Cache
+c:\users\domingos\documents\visual studio 2015\Projects\GeradorCodeQR\GeradorCodeQR\obj\Debug\GeradorCodeQR.exe
+c:\users\domingos\documents\visual studio 2015\Projects\GeradorCodeQR\GeradorCodeQR\obj\Debug\GeradorCodeQR.pdb
